@@ -1,0 +1,1 @@
+{"table":"jobs_copy","pk":"job_id","log":{"id":"32","description":"User admin changed job_title for Job[39] Job G#1 => Job G#7","action":"CHANGE","model":"Job","idModel":"39","field":"job_title","creationdate":"1331878583","userid":"admin","pk":"40","old":"Job G#1","value":"Job G#7"}}
